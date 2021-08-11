@@ -14,3 +14,5 @@ static/js/data.js | The data used to populate my table.
 static/js/app.js | The JavaScript app that links the data and adds filtering functions.
 
 static/images | Commericially available images used to design the page.
+
+![Screenshot 2021-08-10 193056](https://user-images.githubusercontent.com/78669271/128960541-e03651e3-8ec1-44bf-80c9-8386d491fc72.png)
