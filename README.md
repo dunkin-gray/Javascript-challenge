@@ -1,6 +1,6 @@
 # Javascript-challenge
 
-For this project, I built a webpage using JavaScript and JavaScript's D3 library to display data on UFO sightings around the world. The user has the ability to filter through the data and view sightings based on date, city, state, country, and/or shape. You can view the project at https://dunkin-gray.github.io/Javascript-challenge/.
+For this project, I built a webpage using JavaScript and JavaScript's D3 library to display data on UFO sightings around the world. The user has the ability to filter through the data and view sightings based on date, city, state, country, and/or shape. You can view the project at https://dunkin-gray.github.io/UFO-Sightings-Interactive-Database/.
 
 index.html:
 
